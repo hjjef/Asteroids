@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{871B5A90-103A-46A5-BBB9-07C02B9851D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrashCan.cs">
+    <Files>
+      <File FileName="GameModel.cs" Line="86" Column="114" />
+      <File FileName="GameView.cs" Line="26" Column="1" />
+      <File FileName="GameObject.cs" Line="73" Column="11" />
+      <File FileName="MovingGameObject.cs" Line="31" Column="16" />
+      <File FileName="Player.cs" Line="24" Column="10" />
+      <File FileName="ICanMove.cs" Line="8" Column="31" />
+      <File FileName="IFactory.cs" Line="7" Column="15" />
+      <File FileName="GameObjectFactory.cs" Line="9" Column="33" />
+      <File FileName="ConcreteGameObjectFactory.cs" Line="21" Column="1" />
+      <File FileName="Asteroid.cs" Line="45" Column="1" />
+      <File FileName="Bullet.cs" Line="29" Column="32" />
+      <File FileName="CollisionObserver.cs" Line="23" Column="74" />
+      <File FileName="IFoundCollision.cs" Line="10" Column="1" />
+      <File FileName="Turret.cs" Line="10" Column="34" />
+      <File FileName="TrashCan.cs" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-Mac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyGameMac PreferredExecutionTarget="Test1" />
+  <MultiItemStartupConfigurations />
+</Properties>
